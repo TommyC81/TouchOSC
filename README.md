@@ -1,4 +1,4 @@
-# TouchOsc
+# TouchOSC
  Various TouchOSC templates.
  
  Minimum required software versions (others may work, but not tested):
