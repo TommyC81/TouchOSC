@@ -26,8 +26,9 @@
 
 ## Pads
  Up/down arrows transposes drum midi 1 octave up/down
- Velocity control affects both Pads and Keys
+ Velocity control affects both Pads and Keys midi
  
 ## Keys
  Up/down arrows transposes keys midi 1 octave up/down
- Velocity control affects both Pads and Keys
+ Velocity control affects both Pads and Keys midi
+ All keys has (polyphonic) aftertouch, slide up to use - Note: Aftertouch is affected by midi velocity setting
