@@ -40,3 +40,9 @@
  Velocity control affects both Pads and Keys midi.
  
  All keys has (polyphonic) aftertouch, slide up to use - Note: Aftertouch is affected by the midi velocity setting.
+ 
+ # Recent changes
+ 
+ ## 2022-10-09
+ 
+ Fixed a typo in mixer track 4 that prevented it from working correctly.
