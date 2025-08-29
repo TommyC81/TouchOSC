@@ -1,13 +1,15 @@
 # TouchOSC
  Various TouchOSC templates.
  
- Minimum required software versions (others may work, but not tested)
+ Required software versions:
  
- TouchOSC 1.1.5.145
+ TouchOSC 1.1.7.154
  
- Bitwig 4.3.4
+ Bitwig 4.3+
  
- DrivenByMoss 18.0.0 (Bitwig 4.3+)
+ DrivenByMoss 18.2.0
+ 
+ Others may work, but are not tested - check older versions of the template for support of older software versions.
  
 # Brief instructions:
 
@@ -24,7 +26,7 @@
 ## Remote
  Double-click on a device to toggle bypass.
  
- Click on name of remote control to reset.
+ Click on the name of a remote control to reset.
  
 ## Clips
  Double left/right arrows pans left/right by 8 scenes.
@@ -39,10 +41,14 @@
  
  Velocity control affects both Pads and Keys midi.
  
- All keys has (polyphonic) aftertouch, slide up to use - Note: Aftertouch is affected by the midi velocity setting.
+ All keys have (polyphonic) aftertouch, slide up to use - Note: Aftertouch is affected by the midi velocity setting.
  
- # Recent changes
+# Recent changes
  
- ## 2022-10-09
+## 2022-11-16
+ 
+ Minor background updates to make use of the new features 
+ 
+## 2022-10-09
  
  Fixed a typo in mixer track 4 that prevented it from working correctly.
